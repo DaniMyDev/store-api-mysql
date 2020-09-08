@@ -9,7 +9,7 @@
   "author": "Daniel Madrid",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "email-check": "^1.1.0",
     "express": "^4.16.4",
